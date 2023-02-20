@@ -1,5 +1,5 @@
 module SymmetricIndices
 
-# Write your package code here.
+function equivalentindices end
 
 end
